@@ -1,1 +1,1 @@
-print("hajira sait")
+print("I study in KJC")
