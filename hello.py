@@ -1,1 +1,1 @@
-print("hello mam")
+print("hajira sait")
